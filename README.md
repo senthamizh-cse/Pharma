@@ -1,4 +1,4 @@
-![4](https://github.com/senthamizh-cse/Pharma/assets/113031811/05e34d3f-cbd3-4156-8098-03b726be04e7)![1](https://github.com/senthamizh-cse/Pharma/assets/113031811/38754bfb-85b7-4e1c-bf4f-24fa7a19ef06)# Project Responsive Web Design using Bootstrap
+
 ## Date:13-05-2024
 
 ## AIM:
